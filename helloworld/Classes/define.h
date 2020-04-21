@@ -10,4 +10,7 @@
 #define TAG_PERSON 10
 #define TAG_VIRUS 20
 
+// define joystick
+#define MARGIN_JOYSTICK 50
+
 #endif // !_DEFINE_H_

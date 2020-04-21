@@ -3,7 +3,7 @@
 USING_NS_CC;
 void Person::Init()
 {
-	auto sprite = Sprite::create("HelloWorld.png");
+	auto sprite = Sprite::create("hao.jpg");
 	this->setSprite(sprite);
 	this->getLayer()->addChild(this->getSprite());
 	this->getSprite()->setPosition(Vec2(100, 100));
